@@ -1,0 +1,53 @@
+.python-container {
+    background: #fff7d1;
+    padding: 25px;
+    border-radius: 10px;
+    max-width: 700px;
+    margin: 20px auto;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.25);
+}
+
+.python-container h3 {
+    color: #d40000;
+    font-size: 28px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+/* Table Design */
+.python-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+.python-table th {
+    background-color: #ffcc00;
+    padding: 10px;
+    border: 2px solid #d40000;
+    color: #d40000;
+}
+
+.python-table td {
+    padding: 10px;
+    border: 2px solid #d40000;
+}
+
+/* Button */
+.python-btn {
+    margin-top: 20px;
+    background: red;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.python-btn:hover {
+    background: #b00000;
+    transform: scale(1.05);
+}

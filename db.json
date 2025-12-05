@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "stella",
+      "contactno": 12345678,
+      "course": "python",
+      "classmode": "offline"
+    },
+    {
+      "id": "7495",
+      "name": "sakshi",
+      "contactno": "9312092932",
+      "course": "python",
+      "classmode": "offline"
+    },
+    {
+      "id": "e6ce",
+      "name": "johna",
+      "contactno": "1232145436",
+      "course": "java",
+      "classmode": "online"
+    },
+    {
+      "id": "06dd",
+      "name": "sara",
+      "contactno": "9876543212",
+      "course": ".net",
+      "classmode": "offline"
+    },
+    {
+      "id": "8d80",
+      "name": "ravi",
+      "contactno": "23743735748",
+      "course": "java",
+      "classmode": "offline"
+    },
+    {
+      "id": "bc8a",
+      "name": "mahi",
+      "contactno": "4565443287",
+      "course": ".net",
+      "classmode": "offline"
+    }
+  ]
+}

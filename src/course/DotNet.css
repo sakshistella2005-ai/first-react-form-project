@@ -1,0 +1,58 @@
+.dotnet-container {
+    padding: 30px;
+    text-align: center;
+    background: #fffaf1;
+    min-height: 100vh;
+}
+
+.dotnet-container h3 {
+    font-size: 32px;
+    color: #d00000;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.dotnet-table {
+    width: 85%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+.dotnet-table th {
+    background-color: #ffc300;
+    color: #000;
+    padding: 12px;
+    border: 2px solid #d00000;
+    font-weight: bold;
+}
+
+.dotnet-table td {
+    padding: 10px;
+    border: 2px solid #d00000;
+}
+
+.dotnet-table tr:nth-child(even) {
+    background-color: #ffe8cc;
+}
+
+.btn-box {
+    margin-top: 30px;
+}
+
+.btn-box button {
+    background-color: #d00000;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: 0.3s ease-in-out;
+}
+
+.btn-box button:hover {
+    background-color: #780000;
+    transform: scale(1.06);
+}
